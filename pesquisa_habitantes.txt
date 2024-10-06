@@ -1,0 +1,4 @@
+Media de salario: 3100.0 
+Maior idade: 44 
+Menor idade: 24 
+Mulheres que recebem 5K +: 1 
